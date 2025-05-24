@@ -1,6 +1,3 @@
-# Profile README.md
-
-```markdown
 <img src="https://raw.githubusercontent.com/Rick1330/Rick1330/main/assets/header_banner.png" alt="Rick1330 - Engineering intelligent systems" width="100%">
 
 # Rick1330
@@ -201,4 +198,3 @@ I'm always open to collaborating on projects that push the boundaries of develop
 </div>
 
 <!-- Profile README created with ❤️ -->
-```
