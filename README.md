@@ -129,7 +129,7 @@ With a background in system architecture and a forward-thinking approach to soft
     <td width="50%">
       <h3 align="center">MOAL Framework</h3>
       <div align="center">
-        <a href="https://github.com/Rick1330/Manus-Orchestration-Augmentation-Layer-2.0-MOAL-2.0-Framework" target="_blank">
+        <a href="https://github.com/Rick1330/Manus-Orchestration-Augmentation-Layer-2.0-MOAL-2.0-Framework-" target="_blank">
           <img src="https://raw.githubusercontent.com/Rick1330/Rick1330/main/assets/moal_framework.png" alt="MOAL Framework" width="100%"/>
         </a>
         <p>
