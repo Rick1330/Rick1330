@@ -13,7 +13,7 @@ jobs:
       - name: Update README
         uses: kairos-lab/github-activity-readme@v1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           COMMIT_MSG: "docs: update README with latest activity"
           MAX_LINES: 5
