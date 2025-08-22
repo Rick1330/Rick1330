@@ -47,6 +47,11 @@ Open an issue in a repo or start a discussion.
 
 ## My Latest Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#4](https://github.com/Rick1330/ethiohome-back-end/pull/4) in [Rick1330/ethiohome-back-end](https://github.com/Rick1330/ethiohome-back-end)
+2. 💪 Opened PR [#4](https://github.com/Rick1330/ethiohome-back-end/pull/4) in [Rick1330/ethiohome-back-end](https://github.com/Rick1330/ethiohome-back-end)
+3. 🎉 Merged PR [#3](https://github.com/Rick1330/ethiohome-back-end/pull/3) in [Rick1330/ethiohome-back-end](https://github.com/Rick1330/ethiohome-back-end)
+4. 💪 Opened PR [#3](https://github.com/Rick1330/ethiohome-back-end/pull/3) in [Rick1330/ethiohome-back-end](https://github.com/Rick1330/ethiohome-back-end)
+5. 💪 Opened PR [#14](https://github.com/Rick1330/Architech/pull/14) in [Rick1330/Architech](https://github.com/Rick1330/Architech)
 <!--END_SECTION:activity-->
 
 
