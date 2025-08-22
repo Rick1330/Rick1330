@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Update README
-        uses: kairos-lab/github-activity-readme@v1
+        uses: JamesIves/github-activity-readme@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
