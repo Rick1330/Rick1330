@@ -44,3 +44,10 @@ I design and build AI-augmented software systems: multi-agent frameworks, secure
 ## Collaboration
 I’m open to collaborating on AI-native tooling, agent platforms, and secure automation systems.  
 Open an issue in a repo or start a discussion.
+
+## My Latest Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+
