@@ -47,11 +47,11 @@ Open an issue in a repo or start a discussion.
 
 ## My Latest Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Rick1330/kilil-edu-platform/pull/35) in [Rick1330/kilil-edu-platform](https://github.com/Rick1330/kilil-edu-platform)
-2. 💪 Opened PR [#34](https://github.com/Rick1330/kilil-edu-platform/pull/34) in [Rick1330/kilil-edu-platform](https://github.com/Rick1330/kilil-edu-platform)
-3. 🎉 Merged PR [#33](https://github.com/Rick1330/kilil-edu-platform/pull/33) in [Rick1330/kilil-edu-platform](https://github.com/Rick1330/kilil-edu-platform)
-4. 🎉 Merged PR [#32](https://github.com/Rick1330/kilil-edu-platform/pull/32) in [Rick1330/kilil-edu-platform](https://github.com/Rick1330/kilil-edu-platform)
-5. 🎉 Merged PR [#31](https://github.com/Rick1330/kilil-edu-platform/pull/31) in [Rick1330/kilil-edu-platform](https://github.com/Rick1330/kilil-edu-platform)
+1. 💪 Opened PR [#1](https://github.com/Rick1330/ethiopian-university-platform/pull/1) in [Rick1330/ethiopian-university-platform](https://github.com/Rick1330/ethiopian-university-platform)
+2. 🎉 Merged PR [#26](https://github.com/Rick1330/nebula/pull/26) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
+3. 💪 Opened PR [#26](https://github.com/Rick1330/nebula/pull/26) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
+4. 🎉 Merged PR [#25](https://github.com/Rick1330/nebula/pull/25) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
+5. 💪 Opened PR [#25](https://github.com/Rick1330/nebula/pull/25) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
 <!--END_SECTION:activity-->
 
 
