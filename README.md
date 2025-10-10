@@ -47,11 +47,11 @@ Open an issue in a repo or start a discussion.
 
 ## My Latest Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Rick1330/ethiopian-university-platform/pull/1) in [Rick1330/ethiopian-university-platform](https://github.com/Rick1330/ethiopian-university-platform)
-2. 🎉 Merged PR [#26](https://github.com/Rick1330/nebula/pull/26) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
-3. 💪 Opened PR [#26](https://github.com/Rick1330/nebula/pull/26) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
-4. 🎉 Merged PR [#25](https://github.com/Rick1330/nebula/pull/25) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
-5. 💪 Opened PR [#25](https://github.com/Rick1330/nebula/pull/25) in [Rick1330/nebula](https://github.com/Rick1330/nebula)
+1. 🎉 Merged PR [#36](https://github.com/Rick1330/FlakeRadar/pull/36) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+2. 💪 Opened PR [#36](https://github.com/Rick1330/FlakeRadar/pull/36) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+3. ❗ Opened issue [#35](https://github.com/Rick1330/FlakeRadar/issues/35) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+4. ❗ Opened issue [#34](https://github.com/Rick1330/FlakeRadar/issues/34) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+5. ❗ Opened issue [#33](https://github.com/Rick1330/FlakeRadar/issues/33) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
 <!--END_SECTION:activity-->
 
 
