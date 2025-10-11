@@ -47,11 +47,11 @@ Open an issue in a repo or start a discussion.
 
 ## My Latest Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/Rick1330/FlakeRadar/pull/36) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
-2. 💪 Opened PR [#36](https://github.com/Rick1330/FlakeRadar/pull/36) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
-3. ❗ Opened issue [#35](https://github.com/Rick1330/FlakeRadar/issues/35) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
-4. ❗ Opened issue [#34](https://github.com/Rick1330/FlakeRadar/issues/34) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
-5. ❗ Opened issue [#33](https://github.com/Rick1330/FlakeRadar/issues/33) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+1. 💪 Opened PR [#6](https://github.com/Rick1330/flakeradar-ui/pull/6) in [Rick1330/flakeradar-ui](https://github.com/Rick1330/flakeradar-ui)
+2. 🎉 Merged PR [#52](https://github.com/Rick1330/FlakeRadar/pull/52) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+3. 💪 Opened PR [#52](https://github.com/Rick1330/FlakeRadar/pull/52) in [Rick1330/FlakeRadar](https://github.com/Rick1330/FlakeRadar)
+4. ❗ Opened issue [#6](https://github.com/Rick1330/flakeradar-web/issues/6) in [Rick1330/flakeradar-web](https://github.com/Rick1330/flakeradar-web)
+5. ❗ Opened issue [#5](https://github.com/Rick1330/flakeradar-web/issues/5) in [Rick1330/flakeradar-web](https://github.com/Rick1330/flakeradar-web)
 <!--END_SECTION:activity-->
 
 
