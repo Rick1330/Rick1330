@@ -1,6 +1,6 @@
 Elshaday Mengesha (Rick)
 
-Founder @ FlakeRadar. Building tools for reliable software.
+Founder **[Flakeradar](https://github.com/Flakeradar)**. Building tools for reliable software.
 
 ---
 
