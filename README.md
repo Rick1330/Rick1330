@@ -17,5 +17,5 @@ A comprehensive guide for establishing elite engineering workflows. Covers scala
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- This section is automatically updated by a GitHub Action. -->
+1.  Labeled issue [#38](https://github.com/anchorpipe/anchorpipe/issues/38) in [anchorpipe/anchorpipe](https://github.com/anchorpipe/anchorpipe)
 <!--END_SECTION:activity-->
