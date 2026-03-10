@@ -17,5 +17,5 @@ A comprehensive guide for establishing elite engineering workflows. Covers scala
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#370](https://github.com/anchorpipe/anchorpipe/pull/370) in [anchorpipe/anchorpipe](https://github.com/anchorpipe/anchorpipe)
+1. 💪 Opened PR [#37486](https://github.com/JetBrains/swot/pull/37486) in [JetBrains/swot](https://github.com/JetBrains/swot)
 <!--END_SECTION:activity-->
