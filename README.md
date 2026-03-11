@@ -17,5 +17,5 @@ A comprehensive guide for establishing elite engineering workflows. Covers scala
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37486](https://github.com/JetBrains/swot/pull/37486) in [JetBrains/swot](https://github.com/JetBrains/swot)
+1. ℹ️ Labeled PR [#1](https://github.com/Rick1330/agent-as-a-judge/pull/1) in [Rick1330/agent-as-a-judge](https://github.com/Rick1330/agent-as-a-judge)
 <!--END_SECTION:activity-->
