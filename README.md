@@ -17,5 +17,5 @@ A comprehensive guide for establishing elite engineering workflows. Covers scala
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#1](https://github.com/Rick1330/agent-as-a-judge/pull/1) in [Rick1330/agent-as-a-judge](https://github.com/Rick1330/agent-as-a-judge)
+1. 🗣 Commented on [#3731](https://github.com/lm-sys/FastChat/issues/3731#issuecomment-4062617688) in [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
 <!--END_SECTION:activity-->
