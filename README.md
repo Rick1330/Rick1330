@@ -17,5 +17,5 @@ A comprehensive guide for establishing elite engineering workflows. Covers scala
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3731](https://github.com/lm-sys/FastChat/issues/3731#issuecomment-4082041068) in [lm-sys/FastChat](https://github.com/lm-sys/FastChat)
+1. ℹ️ Labeled issue [#704](https://github.com/Rick1330/collabsphere/issues/704) in [Rick1330/collabsphere](https://github.com/Rick1330/collabsphere)
 <!--END_SECTION:activity-->
