@@ -17,5 +17,5 @@ Founder of **[anchorpipe](https://github.com/anchorpipe)**.
 ### Recent Activity  
   
 <!--START_SECTION:activity-->  
-1. 🔒 Closed issue [#1190](https://github.com/Rick1330/collabsphere/issues/1190) in [Rick1330/collabsphere](https://github.com/Rick1330/collabsphere)
+1. 🔒 Closed issue [#49](https://github.com/Rick1330/collabsphere/issues/49) in [Rick1330/collabsphere](https://github.com/Rick1330/collabsphere)
 <!--END_SECTION:activity-->
