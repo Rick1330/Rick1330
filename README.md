@@ -17,5 +17,5 @@ Founder of **[anchorpipe](https://github.com/anchorpipe)**.
 ### Recent Activity  
   
 <!--START_SECTION:activity-->  
-1. 🎉 Merged PR [#668](https://github.com/Rick1330/ibex-harness/pull/668) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
+1. ❗ Opened issue [#672](https://github.com/Rick1330/ibex-harness/issues/672) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
 <!--END_SECTION:activity-->
