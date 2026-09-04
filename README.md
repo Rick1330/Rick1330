@@ -17,5 +17,5 @@ Founder of **[anchorpipe](https://github.com/anchorpipe)**.
 ### Recent Activity  
   
 <!--START_SECTION:activity-->  
-1. ❗ Opened issue [#678](https://github.com/Rick1330/ibex-harness/issues/678) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
+1. ❗ Opened issue [#687](https://github.com/Rick1330/ibex-harness/issues/687) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
 <!--END_SECTION:activity-->
