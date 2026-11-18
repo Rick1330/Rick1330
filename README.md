@@ -13,5 +13,5 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1244](https://github.com/Rick1330/ibex-harness/issues/1244#issuecomment-6940936064) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
+1. 🗣 Commented on [#1255](https://github.com/Rick1330/ibex-harness/issues/1255#issuecomment-6956345036) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
 <!--END_SECTION:activity-->
