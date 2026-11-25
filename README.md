@@ -11,5 +11,5 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1294](https://github.com/Rick1330/ibex-harness/issues/1294) in [Rick1330/ibex-harness](https://github.com/Rick1330/ibex-harness)
+1. 🎉 Merged PR [#9](https://github.com/Rick1330/Mastering-Elite-Engineering-Workflows-with-GitHub-Scalable-Tooling-The-Playbook/pull/9) in [Rick1330/Mastering-Elite-Engineering-Workflows-with-GitHub-Scalable-Tooling-The-Playbook](https://github.com/Rick1330/Mastering-Elite-Engineering-Workflows-with-GitHub-Scalable-Tooling-The-Playbook)
 <!--END_SECTION:activity-->
